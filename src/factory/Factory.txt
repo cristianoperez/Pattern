@@ -1,0 +1,2 @@
+Creatinal pattern
+Com o factory é possivel criar objetos sem expor sua logica de criação e referenciar objetos com implementações diferentes utiliando uma interface em comum.

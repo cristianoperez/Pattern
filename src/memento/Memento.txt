@@ -1,0 +1,2 @@
+Behave pattern
+Memento é usado para salvar e restaurar o estado do objeto em um momento posterior

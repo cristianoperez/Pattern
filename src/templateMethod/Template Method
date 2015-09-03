@@ -1,0 +1,6 @@
+Behavor patterm (Comportadoment)
+
+Define como um metodo ja implementado de uma classe abstrata vai se comportar dependendo da implementação
+
+Problema
+Quando duas ou mais implementações apresentam algoritimos similares.

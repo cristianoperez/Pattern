@@ -1,0 +1,3 @@
+Structural pattern
+Permite adicionar novas funcionalidades ao objeto sem alterar sua estrutura.
+O pattern cria uma classe de decorator que faz um wrapper da classe original e disponibiliza funcionalidades adicinais mantendo o metodo original intacto

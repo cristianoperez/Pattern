@@ -1,0 +1,2 @@
+Creational pattern
+Cria uma unica instancia e apenas uma instancia de alguma classe.

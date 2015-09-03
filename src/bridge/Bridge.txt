@@ -1,0 +1,4 @@
+Strutural
+Bridge é usada quando precisamos desacoplar a abstração da sua implementação assim as duas podem variar independentemente.
+Assim é possivel mater uma classe abstrata que recebe a implementação  que utiliza os 1 ou N metodos e possuiu metodos novos, assim ambos podem
+variar independentemente, a interface pode receber novos metodos sem a nacessidade de alteração da bridge e vice versa
